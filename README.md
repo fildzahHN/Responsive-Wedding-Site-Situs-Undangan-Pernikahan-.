@@ -1,2 +1,2 @@
 # Responsive-Wedding-Site-Situs-Undangan-Pernikahan-.
-Implementation of Bootstrap 5 &amp; Media Queries for a fully responsive, multi-section web layout. (Implementasi Bootstrap 5 &amp; Media Queries untuk tata letak web multi-bagian yang responsif penuh).
+Proyek ini dikembangkan dari tutorial untuk menguasai Bootstrap 5 dan Responsive Design. Saya melakukan kustomisasi penuh pada CSS dan integrasi JavaScript.
